@@ -1,4 +1,4 @@
-# Hehehee, haha
+# Hehehee, :))
 import pygame
 import math
 
